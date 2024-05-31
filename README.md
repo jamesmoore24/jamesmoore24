@@ -1,5 +1,5 @@
 # 💫 About Me:
-MIT CS student interested in building innovative and scalable software solutions with AI and ML.<br>Check out my latest project at [fitlink.onrender.com](https://fitlink.live)!
+MIT CS student interested in building innovative and scalable software solutions with AI and ML.<br>Check out my latest project at [fitlink.live](https://fitlink.live)!
 
 
 ## 🌐 Socials:
